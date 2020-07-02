@@ -1,4 +1,4 @@
 *.java linguist-detectable=false
-*.Assembly linguist-detctable=false
+*.asm linguist-detectable=false 
 *.cpp linguist-detctable=false
 *.cs linguist-detectable=true

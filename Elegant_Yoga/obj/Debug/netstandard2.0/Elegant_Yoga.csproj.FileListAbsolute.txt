@@ -1,0 +1,14 @@
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\Elegant_Yoga.csprojAssemblyReference.cache
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\Elegant_Yoga.AssemblyInfoInputs.cache
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\Elegant_Yoga.AssemblyInfo.cs
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\Elegant_Yoga.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\Elegant_Yoga.dll
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\ref\Elegant_Yoga.dll
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\Elegant_Yoga.pdb
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\bin\Debug\netstandard2.0\Elegant_Yoga.deps.json
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\bin\Debug\netstandard2.0\Elegant_Yoga.dll
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\bin\Debug\netstandard2.0\ref\Elegant_Yoga.dll
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\bin\Debug\netstandard2.0\Elegant_Yoga.pdb
+C:\Users\Emerson Sampaio\source\repos\Elegant_Yoga\Elegant_Yoga\obj\Debug\netstandard2.0\XamlC.stamp

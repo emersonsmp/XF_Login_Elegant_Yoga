@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:Elegant_Yoga.Control"
+             mc:Ignorable="d"
+             x:Class="Elegant_Yoga.MainPage">
+
+    <Grid WidthRequest="520" BackgroundColor="#E5EBEE">
+
+        <MediaElement Source="ms-appx:///yoga3.mp4" ShowsPlaybackControls="False" 
+                      IsLooping="True" Aspect="AspectFill" AutoPlay="True" 
+                      HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+
+        <BoxView Opacity="0.3" BackgroundColor="#00C2FF"/>
+
+        <Grid Margin="30" 
+              x:Name="MinhaGrid" HorizontalOptions="Start">
+
+            <!--<Path Fill="White"
+              Aspect="Uniform" 
+              HorizontalOptions="Start"
+              Data="M30.6, 172.838V696.314L348.157, 426.72Z" 
+              Opacity="0.5"/>-->
+            <Image Source="Triangulo.png" Aspect="AspectFill" HorizontalOptions="End"   Opacity="0.2" HeightRequest="100" WidthRequest="280"/>
+            <Image Source="Triangulo.png" Aspect="AspectFill" HorizontalOptions="Start" Opacity="0.5" HeightRequest="100" WidthRequest="300"/>
+        </Grid>
+
+        <!--<Grid HeightRequest="420" Margin="50,50,10,50" HorizontalOptions="EndAndExpand">
+            <Path Fill="White"
+              Aspect="Uniform" 
+              HorizontalOptions="Start"
+              Data="M30.6, 172.838V696.314L348.157, 426.72Z" 
+              Opacity="0.5"/>
+        </Grid> -->
+
+        <StackLayout Spacing="20" VerticalOptions="Start" Margin="55, 280, 55, 0">
+            <Label Text="LOGIN" FontSize="Large" FontAttributes="Bold"/>
+            <Grid WidthRequest="160" Padding="20,0" BackgroundColor="CornflowerBlue" HorizontalOptions="StartAndExpand">
+                <local:EntryClean Text="" Placeholder="Email"/>
+            </Grid>
+
+            <Grid WidthRequest="160" Padding="20,0" BackgroundColor="CornflowerBlue" HorizontalOptions="StartAndExpand">
+                <local:EntryClean Text="" Placeholder="Senha"/>
+            </Grid>
+
+            <!--<Grid WidthRequest="160" Padding="20,0" HorizontalOptions="StartAndExpand">
+                <Button Text="Entrar" BackgroundColor="FloralWhite" VerticalOptions="Center" HorizontalOptions="Center"/>
+            </Grid> -->
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Entrar" FontSize="12" BackgroundColor="FloralWhite"/>
+                <Button Text="Registrar" FontSize="12" BackgroundColor="FloralWhite"/>
+            </StackLayout>
+
+        </StackLayout>
+    </Grid>
+</ContentPage>
